@@ -1,0 +1,50 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Falou/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/collection-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Falou/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "random_words",
+      "rootUri": "file:///C:/Users/Falou/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/random_words-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "1.22"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/Falou/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_span-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/Falou/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/string_scanner-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/Falou/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mypackage",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    }
+  ],
+  "generated": "2022-09-08T19:02:32.364155Z",
+  "generator": "pub",
+  "generatorVersion": "2.17.0"
+}
